@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-formidable-file-upload-backend",
+  "version": "1.0.0",
+  "description": "File upload Backend developed using NodeJS Formidable",
+  "main": "index.js",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "formidable": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveedazhar/nodejs-formidable-file-upload-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "formidable",
+    "file",
+    "upload",
+    "backend",
+    "reactjs"
+  ],
+  "author": "Naveed Azhar <naveed.azhar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveedazhar/nodejs-formidable-file-upload-backend/issues"
+  },
+  "homepage": "https://github.com/naveedazhar/nodejs-formidable-file-upload-backend#readme"
+}
